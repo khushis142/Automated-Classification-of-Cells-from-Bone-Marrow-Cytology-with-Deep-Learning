@@ -1,0 +1,2 @@
+# Automated-Classification-of-Cells-from-Bone-Marrow-Cytology-with-Deep-Learning
+This research aims to evaluate the performance of several pretrained Convolutional Neural Network models to automate the classification of BM  cells.  More specifically, the models are compared by their ability to assist medical professionals in identifying the presence of ‘hairy cells’ in the bone marrow smear of a subject.
